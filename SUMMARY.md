@@ -1,10 +1,10 @@
-# Summary
+# SUMMARY
 
-* [目 录](mu_lu/README.md)
+* [目 录](SUMMARY.md)
     * [<序>](README.md)
-        * [稀世之音](README.md)
-        * [文字收功日，中国民主时](README.md)
-        * [温家宝总理，你关不住刘晓波先生的灵魂](README.md)
+        * [稀世之音](README.md#x1)
+        * [文字收功日，中国民主时](README.md#x2)
+        * [温家宝总理，你关不住刘晓波先生的灵魂](README.md#x3)
     * [第一卷   剥开胡温的画皮](mu_lu/di_yi_juan_bo_kai_hu_wen_de_hua_pi.md)
         * [找不到方向的胡温政权](mu_lu/di_yi_juan_bo_kai_hu_wen_de_hua_pi.md#找不到方向的胡温政权)
         * [胡锦涛漫画事件的背后](mu_lu/di_yi_juan_bo_kai_hu_wen_de_hua_pi.md#胡锦涛漫画事件的背后)
@@ -60,4 +60,3 @@
         * [大地震中的民间之光 ](mu_lu/di_wu_juan_wo_men_neng_zhan_sheng_kong_ju.md#大地震中的民间之光)
         * [中国改革的深层动力来自民间](mu_lu/di_wu_juan_wo_men_neng_zhan_sheng_kong_ju.md#中国改革的深层动力来自民间)
         * [打破行政垄断就是消除“合法抢劫”](mu_lu/di_wu_juan_wo_men_neng_zhan_sheng_kong_ju.md#打破行政垄断就是消除“合法抢劫”)
-
