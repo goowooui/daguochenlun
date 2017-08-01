@@ -43,7 +43,7 @@
         * [六四暗夜中的百合花 ](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#六四暗夜中的百合花)
         * [六四的赔偿正义 ](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#六四的赔偿正义)
         * [从文革到六四看中国民主化的困境.](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#从文革到六四看中国民主化的困境)
-        * [向马力先生推荐《寻访六四受难者》](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#向马力先生推荐#《寻访六四受难者》)
+        * [向马力先生推荐《寻访六四受难者》](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#向马力先生推荐《寻访六四受难者》)
         * [那个春天的亡灵 ](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#那个春天的亡灵)
         * [天安门母亲的诉求与转型正义](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#天安门母亲的诉求与转型正义)
         * [孩子·母亲·春天 ](mu_lu/di_si_juan_mei_yi_tian_du_shi_liu_si.md#孩子·母亲·春天)
