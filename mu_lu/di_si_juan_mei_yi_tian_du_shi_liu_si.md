@@ -1,4 +1,4 @@
-#f3## 第四卷 ![image](Da Guo Chen Lun ----Xie Gei Zhong Guo De B - Jin Bang Tu Shu/Image_005.png)每一天都是六四
+## 第四卷 每一天都是六四 {#f0}
 
 ### 受难母亲十年如一日的抗争 {#f1}
 

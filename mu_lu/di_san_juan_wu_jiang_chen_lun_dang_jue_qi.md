@@ -1,4 +1,4 @@
-## 第三卷 ![image](Da Guo Chen Lun ----Xie Gei Zhong Guo De B - Jin Bang Tu Shu/Image_004.png)勿将沉沦当崛起
+## 第三卷 勿将沉沦当崛起 {#t0}
 
 ### 精于利益计算的末日独裁 {#t1}
 

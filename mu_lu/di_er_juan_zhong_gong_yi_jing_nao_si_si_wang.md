@@ -1,4 +1,4 @@
-## 第二卷 ![image](Da Guo Chen Lun ----Xie Gei Zhong Guo De B - Jin Bang Tu Shu/Image_003.png)中共已经脑死死亡
+## 第二卷 中共已经脑死死亡 {#s0}
 
 ### 从习近平、李兊强的跃升看中共接班人机制 {#s1}
 

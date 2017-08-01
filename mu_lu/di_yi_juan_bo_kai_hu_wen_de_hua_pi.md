@@ -1,4 +1,4 @@
-## 第一卷 ![image](Da Guo Chen Lun ----Xie Gei Zhong Guo De B - Jin Bang Tu Shu/Image_002.png)剥开胡温的画皮
+## 第一卷 剥开胡温的画皮 {#f0}
 
 ### 找不到方向的胡温政权 {#f1}
 
